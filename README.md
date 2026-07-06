@@ -47,7 +47,7 @@ npm run build
 
 🙌 Author
 Usama Zaka Khan
-GitHub:[ https://github.com/twniazi](https://github.com/usama-123-zaka/Education-Website)
+GitHub: https://github.com/usama-123-zaka
 
 ⭐ Support
 
