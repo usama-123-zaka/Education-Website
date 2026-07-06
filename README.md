@@ -7,8 +7,7 @@ A modern and responsive education platform built using React and Tailwind CSS. T
 ## 🌐 Live Project
 
 👉 Click here to view the live website:  
-🔗 [education-website](https://vercel.com/twniazis-projects/education_website)
-
+🔗 https://educationwebsite-two.vercel.app/
 
 📸 Screenshots
 ### 🏠 Home Page
